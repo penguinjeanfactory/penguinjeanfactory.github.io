@@ -3,10 +3,10 @@
 /* Main Color palette and fonts */
 
 html {
-  --accent:       #92140C;    /* accent     */
-  --accent-dark:  #57070c;    /* accent 2   */
-  --main:         #0f4c81;    /* main color */
-  --main-dim:     #6f93b3;    /* dimmed version of main color */
+  --accent:       #DB504A;    /* accent     */
+  --accent-dark:  #4e3e51;    /* accent 2   */
+  --main:         #326273;    /* main color */
+  --main-dim:     #879dab;    /* dimmed version of main color */
   --text:         #2B323B;
   --grey1:        #5F5E58;
   --grey2:        #8D897C;
@@ -27,10 +27,10 @@ html {
 }
 
 html[data-theme="dark"]  {
-  --accent:       #92140C;    /* accent     */
-  --accent-dark:  #bd726d;    /* accent 2   */
-  --main:         #0f4c81;    /* main color */
-  --main-dim:     #092d4d;    /* dimmed version of main color */
+  --accent:       #d14c47;    /* accent     */
+  --accent-dark:  #DBBEA1;    /* accent 2   */
+  --main:         #5F8081;    /* main color */
+  --main-dim:     #333D47;    /* dimmed version of main color */
   --text:         #CBCCCD;
   --grey1:        #B1B1AE;
   --grey2:        #959692;
