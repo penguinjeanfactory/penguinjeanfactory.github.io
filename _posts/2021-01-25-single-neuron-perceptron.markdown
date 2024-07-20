@@ -11,7 +11,19 @@ author: Armando Maynez
 github:  amaynez/Perceptron/
 mathjax: yes
 ---
-펭귀쟝 블로그 오픈 테스트중
+펭쟝 입니다. 우여곡절 끝에 블로그를 오픈 했습니다. 티스토리 나 네이버 같은걸 쉬웠을텐데, 깃허브로 오픈 하는거라 우여곡절이 많았습니다.
+
+펭귄쟝 팩토리는 고등학교 진로 수행평가 시간에 만들었던 저의 개인 브랜드 였습니다. 뼈대를 일부 고치고, 컨셉을 바꿔 지금의 펭귄쟝 팩토리가 되었습니다. 
+
+
+
+어떤 목적으로 사용할지 정하진 않았는데, 아마 작업 코멘터리나 비하인드 위주로 올리지 않을까 싶습니다.
+
+만약 협업이나 행사를 참여한다면 그런 후기들도 간단히 적어볼까 합니다.
+
+미공개 작업물도 올릴수 있으면 올려보겠습니다.
+
+
 
 
 As an entry point to learning python and getting into Machine Learning, I decided to code from scratch the Hello World! of the field, a single neuron perceptron.
