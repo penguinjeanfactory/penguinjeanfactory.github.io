@@ -2,20 +2,20 @@
 layout: post
 read_time: true
 show_date: true
-title:  Single Neuron Perceptron
-date:   2024-07-22 13:32:20 -0600
+title:  Factory Open
+date:   2024-07-22 13:32:20 +0600
 description: Welcome to the Penguin Jean Factory.
 img: assets/img/posts/20210125/Perceptron.jpg 
-tags: [machine learning, coding, neural networks]
-author: Armando Maynez
+tags: [open, welcome, Penguin Jean Factory]
+author: Penguin Jean
 github:  amaynez/Perceptron/
 mathjax: yes
 ---
-펭쟝 입니다. 우여곡절 끝에 블로그를 오픈 했습니다. 티스토리 나 네이버 같은걸 쉬웠을텐데, 깃허브로 오픈 하는거라 우여곡절이 많았습니다.
+펭쟝 입니다. 우여곡절 끝에 블로그를 오픈 했습니다. 티스토리 나 네이버 같은걸 쉬웠을텐데, 깃허브로 오픈 하는거라 우여곡절이 많았습니다. 그럼에도 이 블로그를 오픈 하게 된 것 이 참으로 감사할 따름입니다.
 
-펭귄쟝 팩토리는 고등학교 진로 수행평가 시간에 만들었던 저의 개인 브랜드 였습니다. 뼈대를 일부 고치고, 컨셉을 바꿔 지금의 펭귄쟝 팩토리가 되었습니다. 
+펭귄쟝 팩토리는 고등학교 진로 수행평가 시간에 만들었던 저의 개인 브랜드 였습니다. 뼈대를 일부 고치고, 컨셉을 바꿔 지금의 펭귄쟝 팩토리가 되었습니다. 초기의 Penguin Jean Factory는 정말 수행 평가용이였기 때문에 쓸모 없는 내용이 많았기 때문입니다. 
 
-
+어떤 목적으로 사용할 지ㅡ
 
 어떤 목적으로 사용할지 정하진 않았는데, 아마 작업 코멘터리나 비하인드 위주로 올리지 않을까 싶습니다.
 
