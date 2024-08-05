@@ -1,6 +1,6 @@
 ---
 layout: post
-title: InD-Gamejam-Review
+title: 인디 게임 잼 2024 대전 리뷰 1탄
 date: 2024-08-04 20:30:00 +0900
 category: sample
 ---
