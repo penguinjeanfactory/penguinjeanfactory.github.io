@@ -4,9 +4,19 @@ title: About
 permalink: /about/
 ---
 
-## Penguin jean 
-> 펭귄쟝 입니다.
->  
+## Penguin Jeam
+> 대학교에서 게임 소프트웨어를 전공하고 있는 펭귄쟝 입니다.
+> 게임 프로그래밍이 주 분야이지만, 음악에도 관심이 많습니다.
+
+
+
+
+
+
+
+> 대학교에서 게임 소프트웨어를 전공하고 있는 펭귄쟝 입니다.
+> 음악에도 관심이 잇어 레슨으로 배우고 있습니다.
+> 저의 일상, 기술공부 관련한 내용들을 공유하고, 기록하는 공간이 될것입입니다.   
 ### Features
 - Responsive.
 - Syntax Highlight
@@ -20,14 +30,3 @@ permalink: /about/
 ```yml
 highlighter-theme: monokai //you can change your syntax color scheme.
 date_format: "%Y-%M-%D" //and date format.
-```
-
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
