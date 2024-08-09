@@ -22,7 +22,7 @@ category: life
 
  ## 4. 작품 소개
 
-![](D:\Github\PJF\penguinjean.github.io\public\img\2024-08-04-ind-gamejam-review.png)
+![](D:\Github\PJF\penguinjean.github.io\public\img\2024-08-04-ind-gamejam-review-1.png)
 
 제가 속한 조에서 만든 게임은 **5T0**(5 Trillion to Zero) 라는 턴제 덱 빌딩 게임입니다. 제한된 턴 안에 체력이 5조인 보스의 체력을 0으로 만드는  게임 입니다. 게이잼에서 완성도 부분에서 상을 받은 게임 이기도 합니다.
 
